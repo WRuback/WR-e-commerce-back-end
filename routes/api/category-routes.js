@@ -39,7 +39,7 @@ router.post('/', async (req, res) => {
   // create a new category
   /* req.body should look like this...
     {
-      category_name: "NewName",
+      category_name: "NewCategory"
     }
   */
   try {
