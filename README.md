@@ -56,7 +56,7 @@ Once the program is running, you can access the API at http://localhost:3001. He
 
 ## Video Walkthrough
 
-[Watch the walkthrough video here.]()
+[Watch the walkthrough video here.](https://drive.google.com/file/d/1ei7IXeeA5wF1BOWpZb6ds1X4Cj_ywobD/view?usp=sharing)
 
 ## Contributing
 
